@@ -1,0 +1,23 @@
+{
+  "name": "hisweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalactaKR/HisWebHtml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalactaKR/HisWebHtml/issues"
+  },
+  "homepage": "https://github.com/GalactaKR/HisWebHtml#readme",
+  "dependencies": {
+    "uikit": "^3.5.7-dev.2b7d5578c"
+  },
+  "devDependencies": {},
+  "description": ""
+}
