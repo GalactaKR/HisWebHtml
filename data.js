@@ -57,6 +57,7 @@ var data =  {
 }
 
 ////// Home Page //////
+//try
 // nav
 // carousol
 // overall intro of three kingdom
